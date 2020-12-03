@@ -1,0 +1,27 @@
+    body {
+    font-family: "Cooper", Bold;
+    font-size: 20px;
+    color: #20CBD4;
+    background: #FFFFFF;
+    margin: 0px auto;
+}
+.expando h1 a {
+    text-decoration: bold !important;
+    color: #20CBD4;
+}
+.styled-select select {
+    color: #20CBD4;
+}
+.box {
+    border: solid 4px #E8E8E1;
+}
+button {
+    background-color: #20CBD4 !important;
+}
+.button {
+    background-color: #20CBD4 !important;
+}
+#add-to-cart.box {
+    color: #ffffff !important;
+    border: 0px !important;
+}
