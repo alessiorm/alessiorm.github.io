@@ -25,3 +25,4 @@ button {
     color: #ffffff !important;
     border: 0px !important;
 }
+@font-face {font-family: "Geometric 415"; src: url("//db.onlinewebfonts.com/t/f51aa01f15d5802d7ea9798beed11e7c.eot"); src: url("//db.onlinewebfonts.com/t/f51aa01f15d5802d7ea9798beed11e7c.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/f51aa01f15d5802d7ea9798beed11e7c.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/f51aa01f15d5802d7ea9798beed11e7c.woff") format("woff"), url("//db.onlinewebfonts.com/t/f51aa01f15d5802d7ea9798beed11e7c.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/f51aa01f15d5802d7ea9798beed11e7c.svg#Geometric 415") format("svg"); }
